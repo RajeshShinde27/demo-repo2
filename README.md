@@ -8,4 +8,4 @@ Few more changes
 ## Local development 
 # some new modifications..
 
-slightly modified.
+slightly modified. This is an example line after some file modification.
